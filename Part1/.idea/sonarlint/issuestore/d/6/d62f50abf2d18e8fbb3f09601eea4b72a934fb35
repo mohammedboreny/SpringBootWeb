@@ -1,0 +1,13 @@
+
+>
+java:S1643:"Use a StringBuilder instead.(à¹çüÿÿÿÿ8œÚÍáœ1
+
+java:S1488V"_Immediately return this expression instead of assigning it to the temporary variable "message".(êÕ€Èøÿÿÿÿ8ÚÍáœ1
+i
+java:S2095H"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8İÚÍáœ1
+i
+java:S2095."GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8İÚÍáœ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”Ôó±øÿÿÿÿ8ãÚÍáœ1
+S
+java:S6437"6Revoke and change this password, as it is compromised.(½çÅ“8äÚÍáœ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·µ‡…8åÚÍáœ1

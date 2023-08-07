@@ -1,0 +1,18 @@
+
+i
+java:S1192M"LDefine a constant instead of duplicating this literal "studentPass" 4 times.(ãû¤Ù8“Î¨¸›1
+m	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¡üƒ8ãÖ˜¸›1
+W
+java:S2209"5Change this instance-reference to a static reference.(«ºÜµúÿÿÿÿ8ˆ×˜¸›1
+W
+java:S2209%"5Change this instance-reference to a static reference.(«ºÜµúÿÿÿÿ8Œ×˜¸›1
+W
+java:S22094"5Change this instance-reference to a static reference.(«ºÜµúÿÿÿÿ8×˜¸›1
+W
+java:S2209G"5Change this instance-reference to a static reference.(«ºÜµúÿÿÿÿ8‘×˜¸›1
+W
+java:S2209_"5Change this instance-reference to a static reference.(«ºÜµúÿÿÿÿ8”×˜¸›1
+W
+java:S2209y"5Change this instance-reference to a static reference.(«ºÜµúÿÿÿÿ8–×˜¸›1
+X
+java:S2209‘"5Change this instance-reference to a static reference.(«ºÜµúÿÿÿÿ8˜×˜¸›1

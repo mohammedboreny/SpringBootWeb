@@ -1,0 +1,13 @@
+
+W
+java:S2209"5Change this instance-reference to a static reference.(«ºÜµúÿÿÿÿ8²åÿ½›1
+W
+java:S2209<"5Change this instance-reference to a static reference.(«ºÜµúÿÿÿÿ8µåÿ½›1
+W
+java:S2209`"5Change this instance-reference to a static reference.(«ºÜµúÿÿÿÿ8·åÿ½›1
+N
+java:S1128"1Remove this unused import 'com.mysql.cj.Session'.(ÃÈ¯–8ºåÿ½›1
+X
+java:S1128	";Remove this unused import 'javax.servlet.http.HttpSession'.(í¨ô8»åÿ½›1
+U
+java:S1144r"3Remove this unused private "verifyPassword" method.(‹«æ¸ýÿÿÿÿ8»åÿ½›1

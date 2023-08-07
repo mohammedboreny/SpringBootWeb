@@ -1,0 +1,17 @@
+
+g	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ğğĞÜ›1
+g	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ğğĞÜ›1
+c
+java:S1989%"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8‹ñĞÜ›1
+ƒ
+java:S1989("aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¦À’¶şÿÿÿÿ8ñĞÜ›1
+c
+java:S19890"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8ñĞÜ›1
+}
+java:S19893"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÏáN8äÒµà›1
+u
+java:S19896"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Ç³¸¶şÿÿÿÿ8ñĞÜ›1
+u
+java:S1989A"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ıªèÇÿÿÿÿÿ8çğÄà›1
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8¸óºà›1

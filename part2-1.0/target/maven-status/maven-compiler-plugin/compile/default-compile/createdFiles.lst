@@ -1,0 +1,12 @@
+com\example\part20\models\Grade.class
+com\example\part20\auth\AuthManager.class
+com\example\part20\validate\Validation.class
+src\db\DatabaseManager.class
+com\example\part20\dao\UserOperations.class
+com\example\part20\models\Course.class
+com\example\part20\dao\CoursesOperations.class
+com\example\part20\dao\GradeOperations.class
+com\example\part20\models\User.class
+com\example\part20\servlet\CourseServlet.class
+com\example\part20\servlet\LoginServlet.class
+com\example\part20\servlet\SignUpServlet.class

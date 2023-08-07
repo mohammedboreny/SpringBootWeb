@@ -1,0 +1,29 @@
+
+q
+java:S1192I"TDefine a constant instead of duplicating this literal "/course?action=list" 3 times.(ĞÙ‡8ÖÒ»º›1
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ë´åİşÿÿÿÿ8«Ñ£à›1
+}
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ë´åİşÿÿÿÿ8ÍÑ£à›1
+
+java:S1989 "eHandle the following exceptions that could be thrown by "listCourses": IOException, ServletException.(–ø¦8íÒ»º›1
+‡
+java:S1989!"eHandle the following exceptions that could be thrown by "listCourses": IOException, ServletException.(»’Ñöüÿÿÿÿ8îÒ»º›1
+r
+java:S1989%"PHandle the following exception that could be thrown by "sendError": IOException.(»†Èâøÿÿÿÿ8ïÒ»º›1
+m
+java:S19892"PHandle the following exception that could be thrown by "addCourse": IOException.(†æÑ„8ñÒ»º›1
+u
+java:S19893"SHandle the following exception that could be thrown by "updateCourse": IOException.(ì³ĞÂùÿÿÿÿ8ñÒ»º›1
+p
+java:S19894"SHandle the following exception that could be thrown by "deleteCourse": IOException.(ë¨Ó”8òÒ»º›1
+‡
+java:S19895"eHandle the following exceptions that could be thrown by "listCourses": IOException, ServletException.(»’Ñöüÿÿÿÿ8òÒ»º›1
+r
+java:S19899"PHandle the following exception that could be thrown by "sendError": IOException.(»†Èâøÿÿÿÿ8òÒ»º›1
+‹
+java:S1130C"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¿…ïë8º£øß›1
+
+java:S1130L"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¯©Óèüÿÿÿÿ8†Üüß›1
+E
+java:S1185["(Remove this method to simply inherit it.(‚“¶î8úÒ»º›1
